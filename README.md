@@ -43,6 +43,6 @@ It uses **Python** for data processing and visualization, and **SQL** for data q
 
 ---
 
- ### Presentation Online
-[View Presentation Online](https://https://docs.google.com/presentation/d/1BS2TbStDsq85Xf67PGCm1DZtZ-pyfKh5/edit?usp=sharing&ouid=109786363915602735637&rtpof=true&sd=true .presentation)
 
+### Presentation Online
+[![Slide Preview](docs/slide1.png)](https://docs.google.com/presentation/d/1BS2TbStDsq85Xf67PGCm1DZtZ-pyfKh5/edit?usp=sharing)
