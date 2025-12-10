@@ -44,3 +44,6 @@ It uses **Python** for data processing and visualization, and **SQL** for data q
 ---
 
 ## 📁 Project Structure
+### Presentation
+[📊 View PowerPoint Presentation](docs/WiFi Analytics.pptx)
+
