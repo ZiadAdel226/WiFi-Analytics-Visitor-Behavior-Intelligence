@@ -8,7 +8,7 @@ It uses **Python** for data processing and visualization, and **SQL** for data q
 ## 🔧 Tech Stack
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn
 - **SQL** — Microsoft SQL Server (via pyodbc & SQLAlchemy)
-- **Data Storage** — Excel / Parquet / CSV
+- **Data Storage** — Excel / CSV
 - **Visualization** — Charts for dwell time, traffic, paths, and network quality
 
 ---
